@@ -10,5 +10,4 @@ def selection_sort(arr):
     
     
 selection_sort([5,7,9,0,4])
-print('')
 selection_sort(['i','n','s','e','r','t','i','o','n'])
